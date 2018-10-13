@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EspressoLab</string>
+    <string name="coffee_hint">Which coffee?</string>
+    <string name="item_label">Item:</string>
+</resources>
